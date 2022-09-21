@@ -1,4 +1,4 @@
-# UpdateProjectVersions
+# Update Project Versions Numbers
 Auto Update Version Numbers in Visual Studio csproj files
 
 Having multiple solutions containing multiple projects can be cumbersome when managing version numbers.  For my project I have addopted the Ubuntu style of versioning with my own flavor that works for me.  The problem is updating the version numbers on successful build.  Some projects build NuGet pacakges and need new version numbers.  Visual Studio doesn't have an automatic version incrementor and if it did it proabably would be for some version format that didn't work for me.
