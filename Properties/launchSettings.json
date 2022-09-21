@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UpdateProjectVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\src\\UpdateProjectVersion\\UpdateProjectVersion.csproj"
+    }
+  }
+}
